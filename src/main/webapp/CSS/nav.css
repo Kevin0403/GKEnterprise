@@ -52,6 +52,7 @@
   
   .nav > .nav-links > a:hover {
 	background-color: #38525c;
+	color: #fff;
   }
   
   .select{
