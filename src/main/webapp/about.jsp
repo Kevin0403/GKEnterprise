@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="CSS/home.css">
     <link rel="shortcut icon" href="picture/logo.png" type="image/x-icon">
     <link rel="stylesheet" href="CSS/nav.css">
+	<link rel="stylesheet" href="CSS/about.css">
 </head>
 <body>
 
@@ -37,7 +38,21 @@
 	</nav>
 	<!-- navbar ends -->
 
-	
-
+	<!-- main sart -->
+	<div class="main">
+	<div class="about-section">
+		<div class="inner-container">
+		  <h1>About Us</h1>
+		  <p class="text">
+			Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus velit ducimus, enim inventore earum, eligendi nostrum pariatur necessitatibus eius dicta a voluptates sit deleniti autem error eos totam nisi neque voluptates sit deleniti autem error eos totam nisi neque.
+		  </p>
+		  <div class="skills">
+			<span>Web Design</span>
+			<span>Photoshop & Illustrator</span>
+			<span>Coding</span>
+		  </div>
+		</div>
+	  </div>
+	</div>
 </body>
 </html>

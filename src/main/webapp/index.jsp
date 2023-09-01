@@ -41,14 +41,14 @@
 	<!-- navbar ends -->
 
 	<!-- slider start -->
-	<base href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/">
+<%--	 <base href="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/">--%>
 	<div id="slider">
 		<figure>
-			<img src="austin-fireworks.jpg" alt>
-			<img src="taj-mahal_copy.jpg" alt>
-			<img src="ibiza.jpg" alt>
-			<img src="ankor-wat.jpg" alt>
-			<img src="austin-fireworks.jpg" alt>
+			<img src="picture/slide1.jpg" alt="pic">
+			<img src="picture/slide2.jpg" alt>
+			<img src="picture/slide3.jpg" alt>
+			<img src="picture/slide4.jpg" alt>
+			<img src="picture/logo.png" alt>
 		</figure>
 	</div>
 	<!-- slider ends -->
