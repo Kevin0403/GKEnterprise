@@ -25,6 +25,8 @@ backdrop-filter:blur(50px);
 display: flex;
 justify-content: space-between;
 z-index: 100;
+border-bottom-left-radius: 20rem;
+border-bottom-right-radius: 20rem;
 }
 .logo{
 	font-size: 2rem;
